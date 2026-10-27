@@ -2,12 +2,26 @@
 
 Before your first contribution to any Chroniton Labs project is merged, you sign a contributor agreement. You sign once, and it covers every Chroniton Labs project.
 
-| Agreement | Who signs it | How |
-|---|---|---|
-| [Individual Contributor Assignment Agreement](individual-agreement.md) | Every person who contributes | Online, through the CLA Assistant check on your first pull request |
-| [Entity Contributor Assignment Agreement](entity-agreement.md) | A company whose employees contribute, if it owns their work | Signed by someone authorised to sign for the company, and sent to chronitonlabs-legal@axonops.com |
+| Agreement | Who signs it | How | Download |
+|---|---|---|---|
+| [Individual Contributor Assignment Agreement](individual-agreement.md) | Every person who contributes | Online, through CLA Assistant on your first pull request | [PDF](individual-agreement.pdf) |
+| [Entity Contributor Assignment Agreement](entity-agreement.md) | A company whose employees contribute, if it owns their work | Signed by someone authorised to sign for the company, and sent to chronitonlabs-legal@axonops.com | [PDF](entity-agreement.pdf) |
+
+The current version is 1.0, published 27 October 2026. Earlier versions, once there are any, are kept under [Releases](https://github.com/chronitonlabs/contributor-agreements/releases).
 
 If your employer signs the Entity agreement, you still sign the Individual agreement yourself.
+
+## How signing works
+
+We use [CLA Assistant](https://cla-assistant.io/) to collect signatures for the Individual agreement. It is a free, open source service that SAP has run since 2014, and it is widely used by open source projects, including Grafana, Mapbox and smallstep.
+
+1. When you open your first pull request on a Chroniton Labs project, CLA Assistant adds a comment and a check to it, with a link to sign.
+2. The link asks you to sign in with your GitHub account. This only identifies which account is signing.
+3. You read the agreement, enter your full legal name, and, only if you are also signing for your employer or another rights owner, its full legal name.
+4. You click to accept. Your typed name and acceptance are your signature.
+5. The check on your pull request turns green. You do not need to sign again for later pull requests or other Chroniton Labs projects.
+
+CLA Assistant records your name, GitHub username, the date and the version you signed. If we publish a new version of the agreement, CLA Assistant asks you to sign it on your next pull request. SAP's [privacy statement for CLA Assistant](https://gist.github.com/CLAassistant/3a73e4cd729c9d0a6e30#file-privacy-md) covers what it keeps.
 
 ## The agreements in plain English
 

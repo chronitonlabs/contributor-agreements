@@ -1,6 +1,6 @@
 # Chroniton Labs Individual Contributor Assignment Agreement
 
-**Published 27 October 2026**
+**Version 1.0, published 27 October 2026**
 
 
 Thank you for contributing to a Chroniton Labs project. Chroniton Labs projects are open-source projects stewarded by AxonOps Limited, a company registered in England and Wales with company number 14105598 and registered office at 124 City Road, London, EC1V 2NX, England (**“We”, “Us” or “Our”**).
