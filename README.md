@@ -25,17 +25,21 @@ CLA Assistant records your name, GitHub username, the date and the version you s
 
 ## The agreements in plain English
 
+Contributor agreements can make people nervous, and with good reason: some companies have used them to take community code and change its licence later. This section explains, in plain words, why that cannot happen here and why nothing in our agreements is new.
+
 This summary is not part of the agreements. If anything here differs from them, the agreements apply.
 
-**Who you are signing with.** AxonOps Limited, a UK company, is the steward of the Chroniton Labs projects. Chroniton Labs is the name the projects are published under, not a separate company. The agreements are based on the [Project Harmony](https://www.harmonyagreements.org/) templates, which many open source projects use, and are governed by the law of England and Wales.
+**Our promise: Apache License 2.0, always.** AxonOps promises, in the agreement itself, that your contributions will only ever be licensed under the Apache License, Version 2.0. No licence change, no proprietary version, no bait and switch. The promise is legally binding and you can enforce it yourself. AxonOps cannot get out of it by selling the code either: it can only transfer the rights to someone who agrees in writing to keep the same promise.
 
-**What you give.** You assign the copyright in your contributions to AxonOps, and give AxonOps a licence to any of your patents that your contribution needs. This lets AxonOps stand behind the code, defend it if someone disputes who owns it, and offer it to The Apache Software Foundation without tracking down every contributor again.
+**Nothing new.** We did not write our own agreements from scratch. They are built from the [Project Harmony](https://www.harmonyagreements.org/) templates, a standard set of contributor agreements drafted with lawyers and open source communities. Canonical uses Harmony agreements for its open source projects, including LXD, MicroK8s, Snapcraft, Juju and Multipass. Assigning copyright with a binding promise to keep the code open is also long established: the Free Software Foundation has asked contributors to GNU projects to do the same for decades. The agreements are governed by the law of England and Wales.
+
+**Who you are signing with.** AxonOps Limited, a UK company, is the steward of the Chroniton Labs projects. Chroniton Labs is the name the projects are published under, not a separate company.
+
+**What you give.** You assign the copyright in your contributions to AxonOps, and give AxonOps a licence to any of your patents that your contribution needs. One owner means AxonOps can stand behind the code, defend it if someone disputes who owns it, and give it back to Apache projects without tracking down every contributor again.
 
 **What you keep.** AxonOps immediately gives you back a licence to do anything you like with your own contribution, for any purpose, under any terms you choose. You can reuse it in your own projects, at work or anywhere else.
 
-**Our promise: Apache License 2.0, always.** AxonOps promises in the agreement that your contributions will only ever be licensed under the Apache License, Version 2.0. No licence change, no proprietary version, no bait and switch. The promise is legally binding and you can enforce it yourself. AxonOps can only transfer the rights to someone who agrees in writing to keep the same promise.
-
-**Giving back to Apache.** Many Chroniton Labs projects build on projects of The Apache Software Foundation, such as ChronitonDB on Apache Cassandra. We offer our fixes and features to those projects. The agreement has one narrow exception to the Apache License promise for this: AxonOps may give your contribution to The Apache Software Foundation, under its own contributor agreements, for inclusion in one of its projects.
+**Giving back to Apache.** Many Chroniton Labs projects build on projects of The Apache Software Foundation, such as ChronitonDB on Apache Cassandra. We owe those projects a lot, and we offer our fixes and features back to them. So we added the one thing most contributor agreements do not need: a narrow exception to the Apache License promise that lets AxonOps give your contribution to The Apache Software Foundation, under its own contributor agreements, for inclusion in one of its projects. It cannot be used for anything else.
 
 **AI-assisted contributions are welcome.** You can use AI tools for any part of your contribution. You review what you submit and take responsibility for it, as with any other tool. You only promise about the rights you actually have, not that every line is copyrightable.
 
@@ -57,6 +61,6 @@ Complete the [Entity agreement](entity-agreement.md), including Schedule A listi
 
 ---
 
-The agreements are adapted from the Project Harmony Contributor Assignment Agreements, version 1.0, licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/). Each agreement says how it was changed.
+The contents of this repository are licensed under the [Creative Commons Attribution 4.0 International License](LICENSE). You may reuse and adapt them if you credit AxonOps Limited. The licence does not cover the Chroniton Labs or ChronitonDB names or logos. The agreements are adapted from the Project Harmony Contributor Assignment Agreements, version 1.0, licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/). Each agreement notes which parts were changed.
 
 Chroniton Labs™ and ChronitonDB™ are trademarks of AxonOps Limited. Apache®, Apache Cassandra® and Cassandra® are either registered trademarks or trademarks of the Apache Software Foundation in the United States and/or other countries. No endorsement by The Apache Software Foundation is implied by the use of these marks.
